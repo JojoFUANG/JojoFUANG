@@ -104,17 +104,8 @@
         <mxCell id="X31Wo9AgnW0GzlzL5Qwe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="115" width="180" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="335" y="115" width="180" height="205" as="geometry" />
-        </mxCell>
         <mxCell id="X31Wo9AgnW0GzlzL5Qwe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="360" width="180" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png;" vertex="1" parent="1">
-          <mxGeometry x="368.75" y="130" width="112.5" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png;" vertex="1" parent="1">
-          <mxGeometry x="390.38" y="220" width="69.23" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X31Wo9AgnW0GzlzL5Qwe-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X31Wo9AgnW0GzlzL5Qwe-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,6 +143,36 @@
         </mxCell>
         <mxCell id="X31Wo9AgnW0GzlzL5Qwe-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/354380/spring-icon.svg;" vertex="1" parent="1">
           <mxGeometry x="385" y="422.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="335" y="115" width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-22">
+          <mxGeometry width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-22">
+          <mxGeometry x="33.75" y="15" width="112.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-22">
+          <mxGeometry x="55.379999999999995" y="105" width="69.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-29" value="Corprations Admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-22">
+          <mxGeometry x="47.690000000000005" y="175" width="84.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="115" width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-24">
+          <mxGeometry width="180" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-24">
+          <mxGeometry x="33.75" y="15" width="112.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/V/vuetify-logo-CC59D65FD3-seeklogo.com.png;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-24">
+          <mxGeometry x="55.379999999999995" y="105" width="69.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X31Wo9AgnW0GzlzL5Qwe-30" value="Corprations Frontend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X31Wo9AgnW0GzlzL5Qwe-24">
+          <mxGeometry x="47.690000000000055" y="175" width="84.62" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
