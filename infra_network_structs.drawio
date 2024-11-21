@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="u-25nE3y5qG4QSfuM3qK">
-    <mxGraphModel dx="913" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
           <mxGeometry x="620" y="440" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnDRdRTcAi1dD7ed9YNJ-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dwglogo.com/wp-content/uploads/2017/11/Jenkins-logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="630" y="500" width="106.67" height="60" as="geometry" />
+          <mxGeometry x="627.91" y="500" width="106.67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AnDRdRTcAi1dD7ed9YNJ-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java" vertex="1" parent="1">
           <mxGeometry x="700" y="375" width="34.4" height="65" as="geometry" />
